@@ -1,11 +1,7 @@
 <div align="center">
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo-light.svg">
-  <img src="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo-dark.svg" alt="Landseed" width="320">
-</picture>
+<img src="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo.png" alt="Landseed" width="280">
 
 <br><br>
 
@@ -17,7 +13,7 @@ Landseed is a public benefit corporation building the<br>measurement layer for e
 
 We deploy autonomous sensor infrastructure on protected land,<br>measure ecological condition across six scientific dimensions,<br>and mint **Earth Credits** — a standardized commodity<br>representing verified ecosystem health.
 
-*The carbon market priced testimony. We produce photographs.*
+*The carbon market estimated. We measure.*
 
 <br>
 
