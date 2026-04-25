@@ -1,7 +1,11 @@
 <div align="center">
 <br>
 
-<img src="https://landseed.earth/apple-touch-icon.png" width="64" height="64" alt="Landseed">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo-light.svg">
+  <img src="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo-dark.svg" alt="Landseed" width="320">
+</picture>
 
 <br><br>
 
