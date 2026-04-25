@@ -1,9 +1,24 @@
-## What would Earth do?
+<div align="center">
+<br>
 
-Landseed is a public benefit corporation building the measurement layer for ecological markets.
+<img src="https://landseed.earth/apple-touch-icon.png" width="64" height="64" alt="Landseed">
 
-We deploy autonomous sensor infrastructure on protected land, measure ecological condition across six scientific dimensions, and mint Earth Credits — a standardized commodity representing verified ecosystem health.
+<br><br>
 
-The carbon market priced testimony. We produce photographs.
+### What would Earth do?
 
-[landseed.earth](https://landseed.earth)
+<br>
+
+Landseed is a public benefit corporation building the<br>measurement layer for ecological markets.
+
+We deploy autonomous sensor infrastructure on protected land,<br>measure ecological condition across six scientific dimensions,<br>and mint **Earth Credits** — a standardized commodity<br>representing verified ecosystem health.
+
+*The carbon market priced testimony. We produce photographs.*
+
+<br>
+
+[![Website](https://img.shields.io/badge/landseed.earth-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iNCIgZmlsbD0iIzAwQkU1QSIvPjwvc3ZnPg==&logoColor=00BE5A)](https://landseed.earth)
+
+<br>
+
+</div>
