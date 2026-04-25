@@ -1,7 +1,10 @@
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/banner.svg" alt="" width="100%">
+
 <br>
 
-<img src="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo.png" alt="Landseed" width="280">
+<img src="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/logo.png" alt="Landseed" width="260">
 
 <br><br>
 
