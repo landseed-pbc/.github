@@ -9,7 +9,7 @@ Landseed is a public benefit corporation building the<br>measurement layer for e
 
 We measure ecosystem health across six scientific dimensions,<br>and mint **Earth Credits** — a standardized commodity<br>representing verified ecological condition.
 
-*The carbon market estimated. We measure.*
+*Existing markets estimate. Landseed measures.*
 
 <br>
 
