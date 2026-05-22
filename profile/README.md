@@ -31,3 +31,7 @@ outreach@landseed.earth
 
 <br>
 </div>
+
+---
+
+*Last updated: 2026-05-21*
