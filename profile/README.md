@@ -5,7 +5,7 @@
 
 <br>
 
-Landseed is a public benefit corporation building the<br>measurement layer for ecological markets.
+Landseed is a public benefit corporation building the<br>measurement layer for nature-based markets.
 
 We measure ecosystem health across six scientific dimensions,<br>and mint **Earth Credits** — a standardized commodity<br>representing verified ecological condition.
 
@@ -22,6 +22,8 @@ We measure ecosystem health across six scientific dimensions,<br>and mint **Eart
 <br>
 
 [About](https://landseed.earth/about) ·
+[Team](https://landseed.earth/team) ·
+[News](https://landseed.earth/news) ·
 [Platform Walkthrough](https://landseed.earth/walkthrough) ·
 [Earth Dashboard](https://landseed.earth/dashboard)
 
@@ -34,4 +36,4 @@ outreach@landseed.earth
 
 ---
 
-*Last updated: 2026-05-21*
+*Last updated: 2026-07-28*
