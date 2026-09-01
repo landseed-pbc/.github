@@ -5,9 +5,9 @@
 
 <br>
 
-Landseed is a public benefit corporation building the<br>measurement layer for nature-based markets.
+Landseed is a public benefit corporation building<br>**hardware, software, and data for the natural world.**
 
-We measure ecosystem health across six scientific dimensions,<br>and mint **Earth Credits** — a standardized commodity<br>representing verified ecological condition.
+Sensors on the ground. AI on the node. Decisions in seconds.<br>Not a camera — a complete measurement system.
 
 *Existing markets estimate. Landseed measures.*
 
@@ -36,4 +36,16 @@ outreach@landseed.earth
 
 ---
 
-*Last updated: 2026-07-28*
+### Working here?
+
+**Start with [`landseed-pbc/handbook`](https://github.com/landseed-pbc/handbook)** — six lessons on
+how Landseed works, written for a person and for their AI agent. The org, what we are allowed to
+publish, how a Vista is built, brand, and how anything ships. It ends by installing the
+fundamentals into your agent's memory.
+
+Almost every repo here carries its own `CLAUDE.md`. That file is the authority on **that** repo;
+the handbook is the authority on how the org works. Where the two disagree, the repo wins.
+
+---
+
+*Last updated: 2026-09-01*
