@@ -5,7 +5,8 @@ Organization-level files for `landseed-pbc`. Not a project.
 | Path | What it is |
 |---|---|
 | `profile/README.md` | **The public org profile.** The first thing GitHub shows anyone who lands on `github.com/landseed-pbc` — a partner, a candidate, or an AI agent given org access |
-| `profile/logo.png` | The image beside it |
+| `profile/wordmark-light.png`, `profile/wordmark-dark.png` | The Grand Army horizontal full-colour wordmark, light and dark mode, shown at the top of the profile |
+| `profile/logo.png` | Older wordmark, black text only; kept because other pages may link its raw URL |
 
 ## Changing the profile
 

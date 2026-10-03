@@ -1,9 +1,15 @@
 <div align="center">
 <br>
 
-### An assay office for the planet.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/wordmark-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/wordmark-light.png">
+  <img src="https://raw.githubusercontent.com/landseed-pbc/.github/main/profile/wordmark-light.png" alt="Landseed" width="340">
+</picture>
 
-<br>
+<br><br>
+
+## An assay office for the planet.
 
 Landseed builds **digital twins of ecosystems**: sensors that measure biodiversity,<br>water, soil and air the same way everywhere, and models that turn those<br>measurements into verified milestones.
 
@@ -13,7 +19,7 @@ Gold has had an assay office for seven hundred years.<br>Nature never has, becau
 
 <br>
 
-[![Website](https://img.shields.io/badge/landseed.earth-000000?style=flat&logoColor=00BE5A)](https://landseed.earth)
+**[landseed.earth](https://landseed.earth)**
 
 <br>
 
@@ -36,9 +42,9 @@ outreach@landseed.earth
 
 ---
 
-### Working here?
+### On the team?
 
-**Start with [`landseed-pbc/handbook`](https://github.com/landseed-pbc/handbook)** — seven lessons on
+**Start with [`landseed-pbc/handbook`](https://github.com/landseed-pbc/handbook)** (team access) — seven lessons on
 how Landseed works, written for a person and for their AI agent. The org, what we are allowed to
 publish, how a Vista is built, brand, and how anything ships. It ends by installing the
 fundamentals into your agent's memory.
