@@ -15,6 +15,7 @@ It is public and it is a positioning surface, so it is not a place to improvise.
    On 2026-09-01 this file was still selling "mint Earth Credits" months after the live site had
    moved to "hardware, software, and data for the natural world" — GitHub was the last surface
    carrying the old story, and it is the surface strangers see first.
+   *Exception, Alex 2026-10-02:* the profile leads the live site with the v3 copy (see `CLAUDE.md`).
 2. **Verify every link before republishing it.** Assert on bytes, not status codes.
 3. **Follow the voice rules** in `landseed-agents/identity/brand.md`: direct not breathless, cite
    always, no moralising, no Web3 framing, no partner or founder names without approval.

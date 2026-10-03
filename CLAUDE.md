@@ -10,6 +10,10 @@
   commodity" while the live site had zero occurrences of the phrase and titled itself
   "Landseed — Hardware, software, and data for the natural world". A positioning surface that
   drifts is worse than no surface, because strangers read it first and trust it.
+- **Recorded exception (Alex, 2026-10-02):** the profile now carries the v3 site's positioning,
+  "An assay office for the planet", *ahead* of v3 reaching `landseed.earth`. Alex chose this
+  deliberately. Do not revert it to the older live copy. The copy comes word for word from
+  `landseed-site-v3` `index.html` (main 5d424c7); when v3 goes live, the rule above applies again.
 - **Verify every link on the page before republishing it**, on bytes rather than status codes.
 - **Voice rules apply** — `landseed-agents/identity/brand.md`. Direct, not breathless. Cite
   always. No moralising. No Web3 framing. No partner or founder names without approval.

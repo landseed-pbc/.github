@@ -1,13 +1,13 @@
 <div align="center">
 <br>
 
-### What would Earth do?
+### An assay office for the planet.
 
 <br>
 
-Landseed is a public benefit corporation building<br>**hardware, software, and data for the natural world.**
+Landseed builds **digital twins of ecosystems**: sensors that measure biodiversity,<br>water, soil and air the same way everywhere, and models that turn those<br>measurements into verified milestones.
 
-Sensors on the ground. AI on the node. Decisions in seconds.<br>Not a camera — a complete measurement system.
+Gold has had an assay office for seven hundred years.<br>Nature never has, because the instruments did not exist. We build them.
 
 *Existing markets estimate. Landseed measures.*
 
@@ -38,7 +38,7 @@ outreach@landseed.earth
 
 ### Working here?
 
-**Start with [`landseed-pbc/handbook`](https://github.com/landseed-pbc/handbook)** — six lessons on
+**Start with [`landseed-pbc/handbook`](https://github.com/landseed-pbc/handbook)** — seven lessons on
 how Landseed works, written for a person and for their AI agent. The org, what we are allowed to
 publish, how a Vista is built, brand, and how anything ships. It ends by installing the
 fundamentals into your agent's memory.
@@ -48,4 +48,4 @@ the handbook is the authority on how the org works. Where the two disagree, the 
 
 ---
 
-*Last updated: 2026-09-01*
+*Last updated: 2026-10-02*
