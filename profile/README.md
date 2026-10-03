@@ -44,10 +44,10 @@ outreach@landseed.earth
 
 ### On the team?
 
-**Start with [`landseed-pbc/handbook`](https://github.com/landseed-pbc/handbook)** (team access) — seven lessons on
-how Landseed works, written for a person and for their AI agent. The org, what we are allowed to
-publish, how a Vista is built, brand, and how anything ships. It ends by installing the
-fundamentals into your agent's memory.
+**Start with [`landseed-pbc/handbook`](https://github.com/landseed-pbc/handbook)** (team access): seven lessons, about two
+hours, written for a person and for their AI agent. The org, what we are allowed to publish, how a Vista is built,
+brand, shipping, a first exercise, and how work reaches you. Then its `MEMORY.md` installs the fundamentals into
+your agent's memory.
 
 Almost every repo here carries its own `CLAUDE.md`. That file is the authority on **that** repo;
 the handbook is the authority on how the org works. Where the two disagree, the repo wins.
